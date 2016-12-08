@@ -1,0 +1,58 @@
+﻿<Window x:Class="WpfApplication2.PrivacyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Privacy Policy" Height="400"  Width="600"   Background="Transparent" AllowsTransparency="True"  WindowStartupLocation="CenterScreen"   ResizeMode="NoResize" WindowStyle="None" >
+
+    <Grid Margin="2">
+        <Grid.Effect>
+            <DropShadowEffect BlurRadius="12" Color="#000" Direction="-90" RenderingBias="Performance" ShadowDepth="2" Opacity="0.2"/>
+        </Grid.Effect>
+        <Border x:Name="TopPanel" Height="30" Background="#444" CornerRadius="12,12,0,0"  VerticalAlignment="Top" BorderBrush="#ededed" Panel.ZIndex="1" RenderTransformOrigin="0.5,0.542" MouseDown="HeadPanel_MouseDown" DockPanel.Dock="Top">
+            <StackPanel Margin="0,-1,0,-4" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <Image x:Name="IconApplication" HorizontalAlignment="Left" Height="15" Margin="10,7,6,6" VerticalAlignment="Top" Width="15" Source="icon.png" RenderTransformOrigin="0.42,0.524" Stretch="Fill"/>
+                <TextBlock x:Name="NameApplication" HorizontalAlignment="Left" Margin="35,-21,-15,50" TextWrapping="Wrap" Text="Privacy Policy" VerticalAlignment="Top" Foreground="#FFF9F9F9"/>
+                <Button x:Name="Minimize" Content="{StaticResource MinimizePrivacy}" HorizontalAlignment="Left" Margin="545,-65,6,6" VerticalAlignment="Top" Width="16" Height="16" Click="minimize_Click" Foreground="#FFF3EAEA" RenderTransformOrigin="1.366,0.72" ToolTip="Minimize" Background="{x:Null}">
+                    <Button.ContextMenu>
+                        <ContextMenu/>
+                    </Button.ContextMenu>
+                    <Button.BorderBrush>
+                        <SolidColorBrush Color="#FF707070" Opacity="0.01"/>
+                    </Button.BorderBrush>
+
+                </Button>
+                <Button x:Name="Exit_Button" Content="{StaticResource ExitPrivacy}" Margin="565,-66,6,6" VerticalAlignment="Top" Height="18" Width="18" Click="Button_Click" Background="{x:Null}" Foreground="#FFF3EAEA" RenderTransformOrigin="1.366,0.72" ToolTip="Exit">
+                    <Button.ContextMenu>
+                        <ContextMenu/>
+                    </Button.ContextMenu>
+                    <Button.BorderBrush>
+                        <SolidColorBrush Color="#FF707070" Opacity="0.01"/>
+                    </Button.BorderBrush>
+                </Button>
+            </StackPanel>
+        </Border>
+        <RichTextBox Name="rtbEditor" BorderBrush="White" BorderThickness="0" IsReadOnly="True"  ScrollViewer.CanContentScroll="True" VerticalScrollBarVisibility="Visible" Margin="0,30,0,11" >
+            <FlowDocument>
+                <Paragraph FontSize="15" Padding="0,10,0,0">Privacy Policy</Paragraph>
+                <Paragraph TextAlignment="Left" FontSize="12" Foreground="Gray">This Privacy Policy governs the manner in which Wowonder collects, uses, maintains and discloses information collected from users (each, a "User") of the Wowonder.com . This privacy policy applies to the Application and all products and services offered by Wowonder.</Paragraph>
+                <Paragraph FontSize="14">Personal identification information</Paragraph>
+                <Paragraph TextAlignment="Left" FontSize="12" Foreground="Gray">We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users Use our Application, register on the site, and in connection with other activities, services, features or resources we make available on our Application. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Application related activities.</Paragraph>
+                <Paragraph FontSize="14">Personal identification information</Paragraph>
+                <Paragraph TextAlignment="Left" FontSize="12" Foreground="Gray">We may collect non-personal identification information about Users whenever they interact with our Application. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Application, such as the operating system and the Internet service providers utilized and other similar information.</Paragraph>
+                <Paragraph FontSize="14">Web browser cookies</Paragraph>
+                <Paragraph TextAlignment="Left" FontSize="12" Foreground="Gray">Our Application may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Application may not function properly.</Paragraph>
+                <Paragraph FontSize="14">Sharing your personal information</Paragraph>
+                <Paragraph TextAlignment="Left" FontSize="12" Foreground="Gray">We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission</Paragraph>
+                <Paragraph FontSize="14">Changes to this privacy policy</Paragraph>
+                <Paragraph TextAlignment="Left" FontSize="12" Foreground="Gray">Wowonder Light has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Application. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</Paragraph>
+                <Paragraph FontSize="14">Your acceptance of these terms
+                </Paragraph>
+                <Paragraph TextAlignment="Left" FontSize="12" Foreground="Gray">By using this Application, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Application. Your continued use of the Application following the posting of changes to this policy will be deemed your acceptance of those changes.</Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+
+
+
+
+    </Grid>
+</Window>

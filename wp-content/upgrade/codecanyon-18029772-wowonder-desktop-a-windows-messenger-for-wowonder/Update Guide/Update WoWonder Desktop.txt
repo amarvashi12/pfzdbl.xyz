@@ -1,0 +1,37 @@
+﻿"WoWonder Desktop v1.1" Update Guide.
+
+Thank you for purchasing WoWonder Desktop. If you have any questions, please feel free to contact me using this email address: alidoughous1993@gmail.com
+
+// ------------------------------------- //
+
+Update requirements:
+
+You need to make a new MSI installer and remove the old one , and then upload again your new application to your website ,to do this follow this steps. 
+
+1. Unzip the WoWonderDesktop archive, extract it to new folder, and then open the folder.
+
+2. In the main folder you will find the solution (Name:WowonderLight  Type: Microsoft Visual Studio Solution) double click on it and wait till everything is loaded.
+
+3. In the Visual Studio menu bar go to Build > Clean Solution, click it and wait till it finish.
+
+4. In the Visual Studio menu bar go to Build > Build Solution, click it and wait till it finish building your project.
+
+5. Enjoy now your script 
+
+6. You can modify and edit the script as you like, for more information about changing and editing the script, please take a look at this video: 
+   https://goo.gl/xXBm0f
+   
+7.If the application is asking for Key please watch this tutorial to solve the key. 
+   https://www.youtube.com/watch?v=U-dnwvS_O6Q
+
+8.For full tutorial on this project editing and creating and modifying  
+   https://www.youtube.com/channel/UC2Rr6w4QbQCRGk-TTxD4U2Q
+// ------------------------------------- //
+
+Created: 21/9/2016
+Last Update: 10/10/2016
+By: Ali Doughouz (DoughouzLight)
+Email: alidoughous1993@gmail.com
+Website: http://www.wowonder.com
+
+Copyright © 2016 WoWonder Desktop - A desktop messanger for WoWonder. All rights reserved.

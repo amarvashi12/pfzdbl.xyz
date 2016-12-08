@@ -1,0 +1,111 @@
+E:\WpfApplication2\WpfApplication2\bin\Debug\WowonderLight.exe.config
+E:\WpfApplication2\WpfApplication2\bin\Debug\WowonderLight.exe.manifest
+E:\WpfApplication2\WpfApplication2\bin\Debug\WowonderLight.application
+E:\WpfApplication2\WpfApplication2\bin\Debug\WowonderLight.exe
+E:\WpfApplication2\WpfApplication2\bin\Debug\WowonderLight.pdb
+E:\WpfApplication2\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+E:\WpfApplication2\WpfApplication2\bin\Debug\WpfAnimatedGif.dll
+E:\WpfApplication2\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+E:\WpfApplication2\WpfApplication2\bin\Debug\WpfAnimatedGif.xml
+E:\WpfApplication2\WpfApplication2\obj\Debug\About.baml
+E:\WpfApplication2\WpfApplication2\obj\Debug\MainForm.baml
+E:\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+E:\WpfApplication2\WpfApplication2\obj\Debug\MsgPopupWindow.baml
+E:\WpfApplication2\WpfApplication2\obj\Debug\PrivacyWindow.baml
+E:\WpfApplication2\WpfApplication2\obj\Debug\SplashScreen.baml
+E:\WpfApplication2\WpfApplication2\obj\Debug\UpdateWindow.baml
+E:\WpfApplication2\WpfApplication2\obj\Debug\App.baml
+E:\WpfApplication2\WpfApplication2\obj\Debug\About.g.cs
+E:\WpfApplication2\WpfApplication2\obj\Debug\MainForm.g.cs
+E:\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+E:\WpfApplication2\WpfApplication2\obj\Debug\MsgPopupWindow.g.cs
+E:\WpfApplication2\WpfApplication2\obj\Debug\PrivacyWindow.g.cs
+E:\WpfApplication2\WpfApplication2\obj\Debug\SplashScreen.g.cs
+E:\WpfApplication2\WpfApplication2\obj\Debug\UpdateWindow.g.cs
+E:\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+E:\WpfApplication2\WpfApplication2\obj\Debug\WowonderLight_Content.g.cs
+E:\WpfApplication2\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WpfApplication2\WpfApplication2\obj\Debug\WowonderLight_MarkupCompile.cache
+E:\WpfApplication2\WpfApplication2\obj\Debug\WowonderLight_MarkupCompile.lref
+E:\WpfApplication2\WpfApplication2\obj\Debug\WowonderLight.g.resources
+E:\WpfApplication2\WpfApplication2\obj\Debug\WowonderLight.Properties.Resources.resources
+E:\WpfApplication2\WpfApplication2\obj\Debug\WowonderLight.csproj.GenerateResource.Cache
+E:\WpfApplication2\WpfApplication2\obj\Debug\WowonderLight.exe.manifest
+E:\WpfApplication2\WpfApplication2\obj\Debug\WowonderLight.application
+E:\WpfApplication2\WpfApplication2\obj\Debug\WowonderLight.exe
+E:\WpfApplication2\WpfApplication2\obj\Debug\WowonderLight.pdb
+E:\WpfApplication2\WpfApplication2\obj\Debug\WowonderLight.csprojResolveAssemblyReference.cache
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\bin\Debug\WowonderLight.exe.config
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\WowonderLight.exe
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\WowonderLight.pdb
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\bin\Debug\WowonderLight.exe.manifest
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\bin\Debug\WowonderLight.application
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\bin\Debug\WowonderLight.exe
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\bin\Debug\WowonderLight.pdb
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\bin\Debug\WpfAnimatedGif.dll
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\bin\Debug\WpfAnimatedGif.xml
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\WowonderLight.csprojResolveAssemblyReference.cache
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\About.baml
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\MsgPopupWindow.baml
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\PrivacyWindow.baml
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\UpdateWindow.baml
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\App.baml
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\About.g.cs
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\MainForm.g.cs
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\MsgPopupWindow.g.cs
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\PrivacyWindow.g.cs
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\SplashScreen.g.cs
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\UpdateWindow.g.cs
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\WowonderLight_Content.g.cs
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\WowonderLight_MarkupCompile.cache
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\WowonderLight_MarkupCompile.lref
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\MainForm.baml
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\SplashScreen.baml
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\WowonderLight.g.resources
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\WowonderLight.Properties.Resources.resources
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\WowonderLight.csproj.GenerateResource.Cache
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\WowonderLight.exe.manifest
+C:\Users\JohenDep\Desktop\Wowonder Light\WpfApplication2\obj\Debug\WowonderLight.application
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\bin\Debug\WowonderLight.exe.config
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\WowonderLight.exe
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\WowonderLight.pdb
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\bin\Debug\WowonderLight.exe.manifest
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\bin\Debug\WowonderLight.application
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\bin\Debug\WowonderLight.exe
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\bin\Debug\WowonderLight.pdb
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\bin\Debug\WpfAnimatedGif.dll
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\bin\Debug\WpfAnimatedGif.xml
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\About.baml
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\MsgPopupWindow.baml
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\PrivacyWindow.baml
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\UpdateWindow.baml
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\App.baml
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\About.g.cs
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\MainForm.g.cs
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\MsgPopupWindow.g.cs
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\PrivacyWindow.g.cs
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\SplashScreen.g.cs
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\UpdateWindow.g.cs
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\WowonderLight_Content.g.cs
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\WowonderLight_MarkupCompile.cache
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\WowonderLight_MarkupCompile.lref
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\MainForm.baml
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\SplashScreen.baml
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\WowonderLight.g.resources
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\WowonderLight.Properties.Resources.resources
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\WowonderLight.csproj.GenerateResource.Cache
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\WowonderLight.exe.manifest
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\WowonderLight.application
+C:\Users\JohenDep\Desktop\Application\WoWonder Desktop\WpfApplication2\obj\Debug\WowonderLight.TrustInfo.xml

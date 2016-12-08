@@ -1,0 +1,54 @@
+body div.kitkat_wrap {
+	display: block;
+	overflow: hidden;
+	margin-bottom: 1em;
+}
+
+body input.kitkat_btn {
+	display: none;
+	float: left;
+}
+
+body input.kitkat_email {
+	float: left;
+	display: none;
+	width: 50%;
+	margin: 0 1em 0 0;
+}
+
+body input.kitkat_error {
+	border-color: #a94442;
+}
+
+body div.kitkat_notification {
+	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	padding: 0.84375em 0.875em 0.78125em;
+	line-height: 1em;
+}
+
+body div.kitkat_notification.alert-danger {
+	color: #a94442;
+	background-color: #f2dede;
+	border: 1px solid #a94442;
+}
+
+body div.kitkat_notification.alert-success {
+	color: #3c763d;
+	background-color: #dff0d8;
+	border: 1px solid #3c763d;
+}
+
+/* spinner */
+.kitkat_spinner {
+	display: none;
+	background: url('../img/loading.gif') no-repeat;
+	background-size: cover;
+	width: 2em;
+	height: 2em;
+	float: left;
+}
+
+/* general class to display elements */
+.kitkat_active {
+	display: block !important;
+}
